@@ -1,6 +1,8 @@
 # SmartInvestGenAI
 place the provided config.json in the same path of the project
-Python kernel version :3.11 in VSCode
+Python kernel version :3.11 in VSCode.
+pip install user if faced any issues during installing packages like spacy.
+Make sure to include config file provided in the same path. 
 
 Citations:
 The Power of Generative AI: A Review of Requirements, Models, Input–Output Formats, Evaluation Metrics, and Challenges by Ajay Bandi, Pydi Venkata Satya Ramesh Adapa and Yudu Eswar Vinay Pratap Kumar Kuchi
